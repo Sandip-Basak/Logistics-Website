@@ -8286,6 +8286,11 @@ fieldset:disabled .btn {
 .text-primary {
     color: #FF3E41 !important
 }
+.text-primary-my-header {
+    color: #005b8d !important
+}
+
+
 
 .text-secondary {
     color: #51CFED !important
